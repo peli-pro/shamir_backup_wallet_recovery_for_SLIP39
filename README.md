@@ -51,6 +51,7 @@ IF YOU REALLY NEED TO USE IT WITH YOUR SEED - USE IT ON AN OFFLINE COMPUTER! CLO
     Your master secret is: 77d6dc4c820ca1c8d402cad5467630f9
 
     ```
+    If you have set a passphrase: run `shamir recover -p` instead. Then you will be asked for the passphrase.
 4. Run in a terminal
     ```
     node
